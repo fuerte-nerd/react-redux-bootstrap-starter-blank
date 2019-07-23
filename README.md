@@ -1,4 +1,4 @@
-# React | Redux | Bootstrap Starter
+# React | Redux | Bootstrap Starter (Blank)
 This is a boilerplate to get you up and running quickly, so you can spend less time faffing and more time creating!
 ## Get started!
 ```
