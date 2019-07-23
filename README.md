@@ -2,7 +2,7 @@
 This is a boilerplate to get you up and running quickly, so you can spend less time faffing and more time creating!
 ## Get started!
 ```
-git clone https://github.com/dandroos/react-redux-bootstrap-starter.git
+git clone https://github.com/dandroos/react-redux-bootstrap-starter-blank.git
 ```  
 ## What's included?
 It is a create-react-app install that I have cleaned up (removed React comments and removed unneccesary - *(for me, anyway!)* - features, such as the ServiceWorker.)
